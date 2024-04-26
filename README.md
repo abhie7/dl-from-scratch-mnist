@@ -66,7 +66,7 @@ After training for 5 epochs, the model achieved an accuracy of approximately 90.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/RohanAgarkar/DL-From-Scratch.git
+git clone https://github.com/abhie7/dl-from-scratch-mnist.git
 ```
 
 Install the required dependencies:
